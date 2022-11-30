@@ -104,7 +104,6 @@ namespace YiFramework.Tools
                 res = 360 - res;
                 //b在 a的上方
             }
-
             return res;
         }
     }
